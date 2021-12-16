@@ -35,7 +35,7 @@ Mi nombre es María Emilia Ludueña, y tengo 28 años.
 <br> Me considero una persona responsable, organizada, y metódica. 
 <br> Con muchas ganas, ansias y expectativas de insertarme en el mundo laboral IT, para continuar aprendiendo y reforzando conocimientos, y poder aplicar los ya incorporados gracias a mi formación educativa.
 
-# Skills / Habilidades:
+# Skills:
 <br>[![Python](https://img.shields.io/badge/Python-FFE873?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
@@ -45,7 +45,7 @@ Mi nombre es María Emilia Ludueña, y tengo 28 años.
 [![CSS3](https://img.shields.io/badge/CSS3-2965f1?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
 
 
-# 📫 How to contact me / Cómo contactarme:
+# 📫 How to contact me:
 <br> [![LinkedIn](https://img.shields.io/badge/María_Emilia_Ludueña-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/mar%C3%ADa-emilia-ludue%C3%B1a-4709b7171/)
 <br> [![Email](https://img.shields.io/badge/emiludu@gmail.com-personal_email_(fast_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:emiludu@gmail.com)
 
