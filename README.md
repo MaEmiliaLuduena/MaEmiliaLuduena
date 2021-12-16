@@ -39,5 +39,5 @@ Mi nombre es María Emilia Ludueña, y tengo 28 años.
 
 # 📫 Cómo contactarme:
 <br> [![LinkedIn](https://img.shields.io/badge/María_Emilia_Ludueña-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/mar%C3%ADa-emilia-ludue%C3%B1a-4709b7171/)
-<br> [![Email](https://img.shields.io/badge/emiludu@gmail.com-Gmail_(fast_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:emiludu@gmail.com)
+<br> [![Email](https://img.shields.io/badge/emiludu@gmail.com-personal_email_(fast_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:emiludu@gmail.com)
 
