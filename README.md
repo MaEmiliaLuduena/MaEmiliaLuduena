@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 
 Mi nombre es María Emilia Ludueña, y tengo 28 años.
 
-Actualmente me encuentro estudiando dos carreras:
-👩🏻‍💻 Analista de Sistemas (IRESM - Villa Carlos Paz) - 2° año
-👩🏻‍💻 Tecnicatura Superior en Desarrollo Web y Aplicaciones Digitales (ISPC - Córdoba) - 2° año
+<br> Actualmente me encuentro estudiando dos carreras:
+<br> 👩🏻‍💻 Analista de Sistemas (IRESM - Villa Carlos Paz) - 2° año
+<br> 👩🏻‍💻 Tecnicatura Superior en Desarrollo Web y Aplicaciones Digitales (ISPC - Córdoba) - 2° año
 
-Me considero una persona responsable, organizada, y metódica. 
-Con muchas ganas, ansias y expectativas de insertarme en el mundo laboral IT, para continuar aprendiendo y reforzando conocimientos, y poder aplicar los ya incorporados gracias a mi formación educativa.
+<br> Me considero una persona responsable, organizada, y metódica. 
+<br> Con muchas ganas, ansias y expectativas de insertarme en el mundo laboral IT, para continuar aprendiendo y reforzando conocimientos, y poder aplicar los ya incorporados gracias a mi formación educativa.
 
 - 📫 Cómo contactarme:
-<br> [Linkedin](www.linkedin.com/in/maria-emilia-luduena)
+<br> [Linkedin](https://www.linkedin.com/in/mar%C3%ADa-emilia-ludue%C3%B1a-4709b7171/)
