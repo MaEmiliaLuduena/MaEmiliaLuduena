@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hola! 👋
+# ¡Hola! 👋
 Mi nombre es María Emilia Ludueña, y tengo 28 años.
 
 <br> Actualmente me encuentro estudiando las carreras de:
