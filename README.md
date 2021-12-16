@@ -29,4 +29,4 @@ Me considero una persona responsable, organizada, y metódica.
 Con muchas ganas, ansias y expectativas de insertarme en el mundo laboral IT, para continuar aprendiendo y reforzando conocimientos, y poder aplicar los ya incorporados gracias a mi formación educativa.
 
 - 📫 Cómo contactarme:
-- [Linkedin](www.linkedin.com/in/maria-emilia-luduena)
+[Linkedin](www.linkedin.com/in/maria-emilia-luduena)
