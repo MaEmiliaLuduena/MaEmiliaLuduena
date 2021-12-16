@@ -32,4 +32,7 @@ Mi nombre es María Emilia Ludueña, y tengo 28 años.
 
 # 📫 Cómo contactarme:
 <br> [Linkedin](https://www.linkedin.com/in/mar%C3%ADa-emilia-ludue%C3%B1a-4709b7171/)
-<br> [! [ LinkedIn ] (https://img.shields.io/badge/LinkedIn-María_Emilia_Ludueña-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)] (https://devexperto.com/linkedin)
+<br> [![LinkedIn](https://img.shields.io/badge/LinkedIn-María_Emilia_Ludueña-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)] (https://www.linkedin.com/in/mar%C3%ADa-emilia-ludue%C3%B1a-4709b7171/)
+
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/channel/UC9mW6BOXoLPrqxXAcwqPkUg)
