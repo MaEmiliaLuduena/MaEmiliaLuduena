@@ -30,5 +30,5 @@ Mi nombre es María Emilia Ludueña, y tengo 28 años.
 ### Habilidades:
 <br>
 
-- 📫 Cómo contactarme:
+# 📫 Cómo contactarme:
 <br> [Linkedin](https://www.linkedin.com/in/mar%C3%ADa-emilia-ludue%C3%B1a-4709b7171/)
