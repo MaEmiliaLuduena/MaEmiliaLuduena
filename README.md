@@ -28,7 +28,7 @@ Mi nombre es María Emilia Ludueña, y tengo 28 años.
 <br> Con muchas ganas, ansias y expectativas de insertarme en el mundo laboral IT, para continuar aprendiendo y reforzando conocimientos, y poder aplicar los ya incorporados gracias a mi formación educativa.
 
 # Habilidades:
-<br>[![Python](https://img.shields.io/badge/Python-00FFE873?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+<br>[![Python](https://img.shields.io/badge/Python-00E873?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 <br>[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 
 # 📫 Cómo contactarme:
