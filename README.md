@@ -33,7 +33,7 @@ Mi nombre es María Emilia Ludueña, y tengo 28 años.
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 
 <br>[![Wordpress](https://img.shields.io/badge/Wordpress-0077B5?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)]()
-[![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
+[![HTML5](https://img.shields.io/badge/HTML5-EC6231?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
 
 
 # 📫 Cómo contactarme:
