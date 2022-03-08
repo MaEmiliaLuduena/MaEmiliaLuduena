@@ -39,6 +39,8 @@ Mi nombre es María Emilia Ludueña, y tengo 28 años.
 <br>[![Python](https://img.shields.io/badge/Python-FFE873?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![SQL Server](https://img.shields.io/badge/SQL-Server-4479A1?style=for-the-badge&logo=sqlserver&logoColor=white&labelColor=101010)]()
+
 
 <br>[![Wordpress](https://img.shields.io/badge/Wordpress-0077B5?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)]()
 [![HTML5](https://img.shields.io/badge/HTML5-EC6231?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
