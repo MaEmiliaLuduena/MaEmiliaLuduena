@@ -33,7 +33,7 @@ Mi nombre es María Emilia Ludueña, y tengo 28 años.
 <br> 👩🏻‍💻 Tecnicatura Superior en Desarrollo Web y Aplicaciones Digitales (ISPC - Córdoba) - 2° año
 
 <br> Me considero una persona responsable, organizada, y metódica. 
-<br> Con muchas ganas, ansias y expectativas de insertarme en el mundo laboral IT, para continuar aprendiendo y reforzando conocimientos, y poder aplicar los ya incorporados gracias a mi formación educativa.
+<br> Con muchas ganas, ansias y expectativas de insertarme en el mundo laboral IT, para continuar aprendiendo y reforzando conocimientos, y poder aplicar mis habilidades adquiridas gracias a mi formación educativa.
 
 # Skills:
 <br>[![Python](https://img.shields.io/badge/Python-FFE873?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
