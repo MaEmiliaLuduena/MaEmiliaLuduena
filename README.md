@@ -7,7 +7,7 @@ My name is María Emilia Ludueña, and I am 28 years old.
 <br> 👩🏻‍💻 Higher Technique in Web Development and Digital Applications (ISPC - Córdoba) - 2nd year
 
 <br> I consider myself a responsible, organized, and methodical person.
-<br> With great desire and expectations of inserting myself in the IT area, to continue learning and reinforcing knowledge, and to apply the acquired skills thanks to my educational training.
+<br> With great desire and expectations of inserting myself in the IT area, to continue learning and reinforcing knowledge and to apply the acquired skills thanks to my educational training.
 
 
 <!-- 
