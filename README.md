@@ -3,7 +3,7 @@
 My name is María Emilia Ludueña, and I am 29 years old.
 
 <br> I am currently studying the careers of:
-<br> 👩🏻‍💻 Systems Analyst (IRESM - Villa Carlos Paz) - 2nd year
+<br> 👩🏻‍💻 Systems Analyst (IRESM - Villa Carlos Paz) - 3th year
 <br> 👩🏻‍💻 Higher Technique in Web Development and Digital Applications (ISPC - Córdoba) - 2nd year
 
 <br> I consider myself a responsible, organized, and methodical person.
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 Mi nombre es María Emilia Ludueña, y tengo 28 años.
 
 <br> Actualmente me encuentro estudiando las carreras de:
-<br> 👩🏻‍💻 Analista de Sistemas (IRESM - Villa Carlos Paz) - 2° año
+<br> 👩🏻‍💻 Analista de Sistemas (IRESM - Villa Carlos Paz) - 3° año
 <br> 👩🏻‍💻 Tecnicatura Superior en Desarrollo Web y Aplicaciones Digitales (ISPC - Córdoba) - 2° año
 
 <br> Me considero una persona responsable, organizada, y metódica. 
