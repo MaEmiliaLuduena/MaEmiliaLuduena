@@ -1,13 +1,12 @@
 # Hi there 👋
 
-My name is María Emilia Ludueña, and I am 29 years old.
+My name is María Emilia Ludueña, and I am 30 years old.
 
-<br> I am currently studying the careers of:
-<br> 👩🏻‍💻 Systems Analyst (IRESM - Villa Carlos Paz) - 3th year
-<br> 👩🏻‍💻 Higher Technique in Web Development and Digital Applications (ISPC - Córdoba) - 2nd year
+<br> 👩🏻‍💻 Computer Systems Analyst | Front-End Developer
 
-<br> I consider myself a responsible, organized, and methodical person.
-<br> With great desire and expectations of inserting myself in the IT area, to continue learning and reinforcing knowledge and to apply the acquired skills thanks to my educational training.
+<br> I like to take new trainings constantly so I deepen my knowledge and acquire new tools and skills as a complement to my regular studies, that way, I would have the chance to apply them on an actual job.
+
+<br> I consider myself a responsible, organized, and methodical person. With great desire and expectations of inserting myself in the IT area
 
 
 <!-- 
