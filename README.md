@@ -5,6 +5,7 @@
 <br> My name is María Emilia Ludueña, and I am 30 years old.
 
 <br> I consider myself a responsible, organized, and methodical person. With great desire and expectations of inserting myself in the IT area.
+
 <br> I like to take new trainings constantly so I deepen my knowledge and acquire new tools and skills as a complement to my regular studies, that way, I would have the chance to apply them on an actual job.
 
 
@@ -29,6 +30,7 @@ Here are some ideas to get you started:
 <br> Mi nombre es María Emilia Ludueña, y tengo 30 años.
 
 <br> Me considero una persona responsable, organizada, y metódica. Con muchas ganas, ansias y expectativas de insertarme finalmente en el mundo laboral TI.
+
 <br> Me gusta capacitarme constantemente para profundizar conocimientos y adquirir nuevas habilidades que complementen mis estudios, para de esta manera tener la posibilidad de aplicarlos en el ámbito laboral.
 
 
