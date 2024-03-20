@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 # 📫 How to contact me:
 <br> [![LinkedIn](https://img.shields.io/badge/María_Emilia_Ludueña-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/maria-emilia-luduena/)
 <br> [![Email](https://img.shields.io/badge/emiludu@gmail.com-personal_email_(fast_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:emiludu@gmail.com)
-<br> [![Instagram](https://img.shields.io/badge/Instagram-@emi.luduena_-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/emi.luduena_)
+<br> [![Instagram](https://img.shields.io/badge/Instagram-@emi.luduena__-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/emi.luduena_)
 <br> [![Facebook](https://img.shields.io/badge/Facebook-@emii.luduena-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/emii.luduena)
 
