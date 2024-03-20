@@ -1,8 +1,10 @@
 # Hi there 👋
 
-My name is María Emilia Ludueña, and I am 30 years old.
+👩🏻‍💻 Computer Systems Analyst | Front-End Developer
 
-<br> 👩🏻‍💻 Computer Systems Analyst | Front-End Developer
+
+<br> My name is María Emilia Ludueña, and I am 30 years old.
+
 
 <br> I like to take new trainings constantly so I deepen my knowledge and acquire new tools and skills as a complement to my regular studies, that way, I would have the chance to apply them on an actual job.
 
