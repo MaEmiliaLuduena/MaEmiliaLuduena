@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <br>[![Wordpress](https://img.shields.io/badge/Wordpress-0077B5?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)]()
 [![HTML5](https://img.shields.io/badge/HTML5-EC6231?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
 [![CSS3](https://img.shields.io/badge/CSS3-2965f1?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-333333?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)]()
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)]()
 
 
 
