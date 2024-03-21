@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 
 # Skills:
 <br>[![Python](https://img.shields.io/badge/Python-FFE873?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![Django](https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
