@@ -6,7 +6,7 @@
 
 <br> I consider myself a responsible, organized, and methodical person. With great desire and expectations of inserting myself in the IT area.
 
-<br> I like to take new trainings constantly so I deepen my knowledge and acquire new tools and skills as a complement to my regular studies, that way, I would have the chance to apply them on an actual job.
+<br> I like to take new trainings constantly so I deepen my knowledge and acquire new tools and skills as a complement to my regular studies, that way, I would have the chance to apply them on my field.
 
 
 <!-- 
