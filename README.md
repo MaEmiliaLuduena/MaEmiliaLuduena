@@ -2,7 +2,7 @@
 👩🏻‍💻 Computer Systems Analyst | Front-End Developer
 
 
-<br> My name is María Emilia Ludueña, and I am 30 years old.
+<br> My name is María Emilia Ludueña.
 
 <br> I consider myself a responsible, organized, and methodical person. With great desire and expectations of inserting myself in the IT area.
 
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 # ¡Hola! 👋
 👩🏻‍💻 Analista de Sistemas de Computación | Desarrollador Front End
 
-<br> Mi nombre es María Emilia Ludueña, y tengo 30 años.
+<br> Mi nombre es María Emilia Ludueña.
 
 <br> Me considero una persona responsable, organizada, y metódica. Con muchas ganas, ansias y expectativas de insertarme finalmente en el mundo laboral TI.
 
